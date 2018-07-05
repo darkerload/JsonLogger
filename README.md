@@ -26,7 +26,7 @@ You can add reference from JsonLogger.Core to your own project
  ```
  
  ### Features
- * You can control all log from config file
+ * You can set settings from a config file
  * Define notify type
  * Thread safe
  
