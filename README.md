@@ -4,7 +4,7 @@ This library providing logger to text file. You can use easily for all .net apps
 
 ### How do I implementation?
 
-You can add reference from JsonLogger.Core to your own project
+You can add reference from "JsonLogger.Core" to your own project
 
 ### Usage
 
