@@ -15,7 +15,7 @@ You can add reference from "JsonLogger.Core" to your own project
             var log = new Logger("connection");
             //You can giving 2 parameter when writing to log
             log.Write("test", NotifyType.Error);
-            //Even you are using parallel etc. You can use below ex:
+            //Even you are using parallel etc. Ex:
             Parallel.For(0, 20, i =>
             {
                 log.Write("test : " + i.ToString(), NotifyType.Warning);
