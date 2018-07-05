@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonLogger", "JsonLogger\JsonLogger.csproj", "{5CE9C2FA-A9F3-471B-9D9A-C20544E4502A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonLogger.Core", "JsonLogger.Core\JsonLogger.Core.csproj", "{A43FEDD4-BB8C-4D60-BB7B-1F63096BF86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE9C2FA-A9F3-471B-9D9A-C20544E4502A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE9C2FA-A9F3-471B-9D9A-C20544E4502A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE9C2FA-A9F3-471B-9D9A-C20544E4502A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE9C2FA-A9F3-471B-9D9A-C20544E4502A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43FEDD4-BB8C-4D60-BB7B-1F63096BF86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43FEDD4-BB8C-4D60-BB7B-1F63096BF86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43FEDD4-BB8C-4D60-BB7B-1F63096BF86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43FEDD4-BB8C-4D60-BB7B-1F63096BF86B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

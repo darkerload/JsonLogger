@@ -1,0 +1,14 @@
+﻿{
+    "settings": {
+        "log": [
+            {
+                "name": "network",
+                "allow": "*"
+            },
+            {
+                "name": "connection",
+                "allow": "Error,Information"
+            }
+        ]
+    }
+}
