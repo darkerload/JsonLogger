@@ -1,6 +1,6 @@
 ## JsonLogger
 
-This library providing logger to text file. You can use easily for all .net apps.
+This library providing data logger to text file. You can use easily for all .net apps.
 
 ### How do I implementation?
 
